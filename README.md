@@ -31,4 +31,4 @@ Python, FastAPI, JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL, SQ
 
 - Website: [sandeepreddy.dev](http://sandeepreddy.dev/)
 - GitHub: [@sandeepreddyreddy-7](https://github.com/sandeepreddyreddy-7)
-- LinkedIn: add-your-link
+- LinkedIn: [sandeepreddy170](https://www.linkedin.com/in/sandeepreddy170/)
